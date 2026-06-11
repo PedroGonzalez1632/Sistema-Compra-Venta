@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe.config
