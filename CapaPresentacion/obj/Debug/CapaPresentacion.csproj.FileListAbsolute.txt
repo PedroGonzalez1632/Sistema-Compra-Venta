@@ -18,3 +18,14 @@ C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\bi
 C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
 C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
 C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmAcercaDe.resources
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmEmpleado.resources
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\Pedro\source\repos\Practicas c++\SistemaCompraVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
