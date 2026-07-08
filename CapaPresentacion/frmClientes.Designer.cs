@@ -33,10 +33,10 @@
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(314, 219);
+            this.label1.Dock = System.Windows.Forms.DockStyle.Left;
+            this.label1.Location = new System.Drawing.Point(0, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(162, 13);
+            this.label1.Size = new System.Drawing.Size(162, 450);
             this.label1.TabIndex = 1;
             this.label1.Text = "Hola soy el formulario de Clientes";
             // 
@@ -49,7 +49,6 @@
             this.Name = "frmClientes";
             this.Text = "frmClientes";
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
