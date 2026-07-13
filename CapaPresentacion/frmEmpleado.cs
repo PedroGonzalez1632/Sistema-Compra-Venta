@@ -65,7 +65,7 @@ namespace CapaPresentacion
         private void btnguardar_Click(object sender, EventArgs e)
         {
             dgvdata.Rows.Add(new object[]{"", txtid.Text, txtdocumento.Text, txtnombre.Text, txtcorreo.Text,
-                txttelefono.Text, txtcontrasenia.Text, textBox6.Text,
+                txttelefono.Text, txtcontrasenia.Text, txtcontraseniar.Text,
                 ((OpcionCombo)cborol.SelectedItem).Valor.ToString(),
                 ((OpcionCombo)cborol.SelectedItem).Texto.ToString(),
                 ((OpcionCombo)cboestado.SelectedItem).Valor.ToString(),
@@ -75,13 +75,14 @@ namespace CapaPresentacion
         }
 
         private void limpiar() {
+            txtindice.Text = "-1";
             txtid.Text = "0";
             txtdocumento.Text = "";
             txtnombre.Text = "";
             txtcorreo.Text = "";
             txttelefono.Text = "";
             txtcontrasenia.Text = "";
-            textBox6.Text = "";
+            txtcontraseniar.Text = "";
             cborol.SelectedIndex = 0;
             cboestado.SelectedIndex = 0;
         }
@@ -104,9 +105,37 @@ namespace CapaPresentacion
             }
         }
 
+        private void dgvdata_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (dgvdata.Columns[e.ColumnIndex].Name == "btnseleccionar") {
 
+                int indice = e.RowIndex;
+                if (indice >= 0) {
+                    txtid.Text = dgvdata.Rows[indice].Cells["IdUsuario"].Value.ToString();
+                    txtdocumento.Text = dgvdata.Rows[indice].Cells["Documento"].Value.ToString();
+                    txtcorreo.Text = dgvdata.Rows[indice].Cells["Correo"].Value.ToString();
+                    txtcontrasenia.Text = dgvdata.Rows[indice].Cells["Contraseña"].Value.ToString();
+                    txtcontraseniar.Text = dgvdata.Rows[indice].Cells["Contraseña"].Value.ToString();
 
+                    foreach (OpcionCombo oc in cboestado.Items) {
+                        if (Convert.ToInt32(oc.Valor) == Convert.ToInt32(dgvdata.Rows[indice].Cells["EstadoValor"].Value)) {
+                            int indice_combo = cboestado.Items.IndexOf(oc);
+                            cboestado.SelectedIndex = indice_combo;
+                            break;
+                        }
+                    }
 
-
+                    foreach (OpcionCombo oc in cborol.Items)
+                    {
+                        if (Convert.ToInt32(oc.Valor) == Convert.ToInt32(dgvdata.Rows[indice].Cells["IdRol"].Value))
+                        {
+                            int indice_combo = cborol.Items.IndexOf(oc);
+                            cborol.SelectedIndex = indice_combo;
+                            break;
+                        }
+                    }
+                }
+            }
+        }
     }
 }
