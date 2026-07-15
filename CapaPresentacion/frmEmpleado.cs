@@ -64,14 +64,37 @@ namespace CapaPresentacion
 
         private void btnguardar_Click(object sender, EventArgs e)
         {
-            dgvdata.Rows.Add(new object[]{"", txtid.Text, txtdocumento.Text, txtnombre.Text, txtcorreo.Text,
+            string Mensaje = string.Empty;
+
+            Usuario objusuario = new Usuario()
+            {
+                IdUsuario = Convert.ToInt32(txtid.Text),
+                Documento = txtdocumento.Text,
+                NombreCompleto = txtnombre.Text,
+                Correo = txtcorreo.Text,
+                Clave = txtcontrasenia.Text,
+                oRol = new Rol() { IdRol = Convert.ToInt32(((OpcionCombo)cborol.SelectedItem).Valor) },
+                Telefono = txttelefono.Text,
+                Estado = Convert.ToInt32(((OpcionCombo)cboestado.SelectedItem).Valor) == 1 ? true : false
+            };
+            int IdUsuarioGenerado = new CN_Usuario().Registrar(objusuario, out Mensaje);
+
+            if (IdUsuarioGenerado != 0)
+            {
+                dgvdata.Rows.Add(new object[]{"", txtid.Text, txtnombre.Text, txtdocumento.Text, txtcorreo.Text,
                 txttelefono.Text, txtcontrasenia.Text, txtcontraseniar.Text,
                 ((OpcionCombo)cborol.SelectedItem).Valor.ToString(),
                 ((OpcionCombo)cborol.SelectedItem).Texto.ToString(),
                 ((OpcionCombo)cboestado.SelectedItem).Valor.ToString(),
                 ((OpcionCombo)cboestado.SelectedItem).Texto.ToString(),
             });
-            limpiar();
+                limpiar();
+            }
+            else {
+                MessageBox.Show(Mensaje);
+            
+            }
+           
         }
 
         private void limpiar() {
@@ -111,9 +134,12 @@ namespace CapaPresentacion
 
                 int indice = e.RowIndex;
                 if (indice >= 0) {
+                    txtindice.Text = indice.ToString();
                     txtid.Text = dgvdata.Rows[indice].Cells["IdUsuario"].Value.ToString();
                     txtdocumento.Text = dgvdata.Rows[indice].Cells["Documento"].Value.ToString();
+                    txtnombre.Text = dgvdata.Rows[indice].Cells["NombreCompleto"].Value.ToString();
                     txtcorreo.Text = dgvdata.Rows[indice].Cells["Correo"].Value.ToString();
+                    txttelefono.Text = dgvdata.Rows[indice].Cells["Telefono"].Value.ToString();
                     txtcontrasenia.Text = dgvdata.Rows[indice].Cells["Contraseña"].Value.ToString();
                     txtcontraseniar.Text = dgvdata.Rows[indice].Cells["Contraseña"].Value.ToString();
 
