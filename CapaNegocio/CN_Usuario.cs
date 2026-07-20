@@ -66,5 +66,10 @@ namespace CapaNegocio
 
 
 
+        public bool Eliminar(Usuario obj, out string Mensaje)
+        {
+            return objcd_usuario.Eliminar(obj, out Mensaje);
+            
+        }
     }
 }
