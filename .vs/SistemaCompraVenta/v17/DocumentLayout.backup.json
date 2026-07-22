@@ -102,7 +102,8 @@
               "RelativeToolTip": "CapaPresentacion\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-10T22:29:13.896Z"
+              "WhenOpened": "2026-07-10T22:29:13.896Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -127,7 +128,8 @@
               "RelativeToolTip": "CapaNegocio\\CN_Rol.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-10T03:20:48.498Z"
+              "WhenOpened": "2026-07-10T03:20:48.498Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -139,7 +141,8 @@
               "RelativeToolTip": "CapaEntidad\\Rol.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-10T03:17:27.158Z"
+              "WhenOpened": "2026-07-10T03:17:27.158Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -164,7 +167,8 @@
               "RelativeToolTip": "CapaDatos\\CD_Rol.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-10T03:05:36.696Z"
+              "WhenOpened": "2026-07-10T03:05:36.696Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -176,7 +180,8 @@
               "RelativeToolTip": "CapaPresentacion\\Utilidades\\OpcionCombo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-10T02:29:11.047Z"
+              "WhenOpened": "2026-07-10T02:29:11.047Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -184,9 +189,9 @@
               "Title": "frmEmpleado.cs",
               "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\Practicas c\u002B\u002B\\SistemaCompraVenta\\CapaPresentacion\\frmEmpleado.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\frmEmpleado.cs",
-              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Practicas c\u002B\u002B\\SistemaCompraVenta\\CapaPresentacion\\frmEmpleado.cs",
-              "RelativeToolTip": "CapaPresentacion\\frmEmpleado.cs",
-              "ViewState": "AgIAAMgAAAAAAAAAAAAgwN4AAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Practicas c\u002B\u002B\\SistemaCompraVenta\\CapaPresentacion\\frmEmpleado.cs*",
+              "RelativeToolTip": "CapaPresentacion\\frmEmpleado.cs*",
+              "ViewState": "AgIAAMcAAAAAAAAAAIAwwOkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-08T23:20:12.704Z",
               "EditorCaption": ""
@@ -197,8 +202,8 @@
               "Title": "frmEmpleado.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\Practicas c\u002B\u002B\\SistemaCompraVenta\\CapaPresentacion\\frmEmpleado.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\frmEmpleado.cs",
-              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Practicas c\u002B\u002B\\SistemaCompraVenta\\CapaPresentacion\\frmEmpleado.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CapaPresentacion\\frmEmpleado.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Practicas c\u002B\u002B\\SistemaCompraVenta\\CapaPresentacion\\frmEmpleado.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "CapaPresentacion\\frmEmpleado.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-08T21:17:45.92Z",
               "EditorCaption": " [Dise\u00F1o]"
@@ -212,7 +217,8 @@
               "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Practicas c\u002B\u002B\\SistemaCompraVenta\\CapaPresentacion\\frmClientes.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\frmClientes.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T21:15:51.157Z"
+              "WhenOpened": "2026-07-08T21:15:51.157Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -224,7 +230,8 @@
               "RelativeToolTip": "CapaNegocio\\CN_Permiso.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T22:04:14.781Z"
+              "WhenOpened": "2026-07-07T22:04:14.781Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -235,7 +242,8 @@
               "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Practicas c\u002B\u002B\\SistemaCompraVenta\\CapaPresentacion\\frmDetalleVenta.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\frmDetalleVenta.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T01:39:19.075Z"
+              "WhenOpened": "2026-06-20T01:39:19.075Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -246,7 +254,8 @@
               "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Practicas c\u002B\u002B\\SistemaCompraVenta\\CapaPresentacion\\frmDetalleCompra.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\frmDetalleCompra.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T01:38:39.105Z"
+              "WhenOpened": "2026-06-20T01:38:39.105Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -257,7 +266,8 @@
               "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Practicas c\u002B\u002B\\SistemaCompraVenta\\CapaPresentacion\\frmCompras.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\frmCompras.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T01:38:11Z"
+              "WhenOpened": "2026-06-20T01:38:11Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -269,7 +279,8 @@
               "RelativeToolTip": "CapaPresentacion\\Inicio.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T20:45:12.164Z"
+              "WhenOpened": "2026-06-19T20:45:12.164Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -294,7 +305,8 @@
               "RelativeToolTip": "CapaEntidad\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-12T23:02:34.905Z"
+              "WhenOpened": "2026-06-12T23:02:34.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -306,7 +318,8 @@
               "RelativeToolTip": "CapaPresentacion\\Login.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T06:43:10.199Z"
+              "WhenOpened": "2026-06-10T06:43:10.199Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -317,7 +330,8 @@
               "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Practicas c\u002B\u002B\\SistemaCompraVenta\\CapaPresentacion\\Login.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\Login.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T22:30:54.9Z"
+              "WhenOpened": "2026-06-09T22:30:54.9Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -328,7 +342,8 @@
               "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Practicas c\u002B\u002B\\SistemaCompraVenta\\CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T22:24:03.427Z"
+              "WhenOpened": "2026-06-01T22:24:03.427Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
